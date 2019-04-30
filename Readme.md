@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов» [![Build status][travis-image]][travis-url]
 
 * Студент: [Никита Рогатнев](https://up.htmlacademy.ru/react/1/user/86119).
-* Наставник: `Неизвестно`.
+* Наставник: [Всеволод Артемьев](https://htmlacademy.ru/profile/id459331).
 
 ---
 
